@@ -1,4 +1,4 @@
-# TUGAS PRAKTIKUM 5
+# TUGAS LBPY06
 # Data Diri
 
 Nama : Muhammad Aziz Tri Ramadhan
