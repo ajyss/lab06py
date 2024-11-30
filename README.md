@@ -13,38 +13,33 @@ Kelas : TI,24.A.3
 
 # input dan outpu dari Praktikum 5
 
-# input 
-
 ## input tambah data 
 
 <img src="input1.png">
+
+## outpu tambah data 
+
+<img src="output1.png">
 
 ## input tampilkan data
 
 <img src="input2.png">
 
-## input hapus data
-
-<img src="input3.png">
-
-## input ubah data
-
-<img src="input4.png">
-
-
-# output
- 
-## outpu tambah data 
-
-<img src="output1.png">
-
 ## output tampilkan data 
 
 <img src="output2.png">
 
+## input hapus data
+
+<img src="input3.png">
+
 ## output hapus data
 
 <img src="output3.png">
+
+## input ubah data
+
+<img src="input4.png">
 
 ## output uba data
 
