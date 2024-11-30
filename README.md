@@ -13,7 +13,7 @@ Kelas : TI,24.A.3
 
 # input dan outpu dari Praktikum 5
 
-## input tambah data 
+## 1. input tambah data 
 
 <img src="input1.png">
 
@@ -21,7 +21,7 @@ Kelas : TI,24.A.3
 
 <img src="output1.png">
 
-## input tampilkan data
+## 2. input tampilkan data
 
 <img src="input2.png">
 
@@ -29,7 +29,7 @@ Kelas : TI,24.A.3
 
 <img src="output2.png">
 
-## input hapus data
+## 3. input hapus data
 
 <img src="input3.png">
 
@@ -37,7 +37,7 @@ Kelas : TI,24.A.3
 
 <img src="output3.png">
 
-## input ubah data
+## 4.  input ubah data
 
 <img src="input4.png">
 
