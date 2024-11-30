@@ -9,7 +9,7 @@ Kelas : TI,24.A.3
 
 # Flowchart 
 
-<img src="outputpraktikum5.png">
+<img src="flowchart06.png">
 
 # input dan outpu dari Praktikum 5
 
